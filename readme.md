@@ -33,3 +33,19 @@ public class Singleton {
     }
     return instance;
 ```
+
+## TODO:
+- Create a ```ChocolateBoilerTest``` to test ```ChocolateBoiler``` class.
+- Convert ```ChocolateBoiler``` into a **Singleton** in ```ChocolateBoilerSingleton```
+- Create a ```ChocolateBoilerSingletonTest``` to test ```ChocolateBoilerSingleton``` class.
+- Create a ```ChocolateBoilerSingletonMultiThreadTest``` to test access concurrent ```ChocolateBoilerSingleton```
+
+```java
+class MultiThread extends Thread{
+
+public void run(){
+  //TODO something in this thread instance.  
+  }
+}
+```
+-  
