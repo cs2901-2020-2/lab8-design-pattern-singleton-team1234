@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 @Test
 public class ChocolateBoilerSingletonTest {
 
-    @Test(threadPoolSize = 50)
+    @Test(invocationCount = 80, threadPoolSize = 80)
     public void Test_creation_initial(){
         ChocolateBoilerSingleton chocolate = ChocolateBoilerSingleton.getInstance();
         chocolate.boil();
@@ -40,7 +40,7 @@ public class ChocolateBoilerSingletonTest {
         Assert.assertTrue(chocolate.isEmpty());
     }
 
-    @Test(threadPoolSize = 50)
+    @Test(invocationCount = 80, threadPoolSize = 80)
     public void Test_behavior() {
         ChocolateBoilerSingleton chocolate = ChocolateBoilerSingleton.getInstance();
         chocolate.fill();
