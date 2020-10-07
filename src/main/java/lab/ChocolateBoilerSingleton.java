@@ -46,7 +46,7 @@ public class ChocolateBoilerSingleton {
     }
 
     public static ChocolateBoilerSingleton getInstance(){
-        if (increaseSema() == 0);
+        if (increaseSema() == 0)
             instance = new ChocolateBoilerSingleton();
         return instance;
     }
