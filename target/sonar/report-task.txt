@@ -1,0 +1,7 @@
+organization=cs2901-2020-2
+projectKey=cs2901-2020-2_lab8-design-pattern-singleton-team1234
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.13084
+dashboardUrl=https://sonarcloud.io/dashboard?id=cs2901-2020-2_lab8-design-pattern-singleton-team1234
+ceTaskId=AXUDu4b6_PIoWXy_Litw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXUDu4b6_PIoWXy_Litw
