@@ -3,12 +3,14 @@ package lab;
 public class ChocolateBoilerSingleton {
 
     private static ChocolateBoilerSingleton instance = null;
-    private static int semaphore = 0;
+    private static int semaphoreGet = 0;
+
     private boolean empty;
     private boolean boiled;
 
     private ChocolateBoilerSingleton(){
-
+        empty = true;
+        boiled = false;
     }
     public void fill(){
         if(isEmpty()){
@@ -40,8 +42,8 @@ public class ChocolateBoilerSingleton {
     }
 
     private static synchronized int increaseSema () {
-        int prev = semaphore;
-        semaphore++;
+        int prev = semaphoreGet;
+        semaphoreGet++;
         return prev;
     }
 

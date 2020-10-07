@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="243" passed="243" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-07T10:42:18 PET" name="Surefire suite" finished-at="2020-10-07T10:42:19 PET" duration-ms="584">
+    <groups>
+    </groups>
+    <test started-at="2020-10-07T10:42:18 PET" name="Surefire test" finished-at="2020-10-07T10:42:19 PET" duration-ms="584">
+      <class name="lab.ChocolateBoilerTest">
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_boil_initial()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_boil_initial" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_boil_initial -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_creation()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_creation" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_creation -->
+        <test-method signature="Test_fill_initial()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_fill_initial" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_fill_initial -->
+        <test-method signature="Test_drain_initial()[pri:0, instance:lab.ChocolateBoilerTest@3b46dd8]" started-at="2020-10-07T10:42:18 PET" name="Test_drain_initial" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_drain_initial -->
+      </class> <!-- lab.ChocolateBoilerTest -->
+      <class name="lab.ChocolateBoilerSingletonTest">
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:18 PET" name="Test_behavior" finished-at="2020-10-07T10:42:18 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+        <test-method signature="Test_behavior()[pri:0, instance:lab.ChocolateBoilerSingletonTest@39651a82]" started-at="2020-10-07T10:42:19 PET" name="Test_behavior" finished-at="2020-10-07T10:42:19 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_behavior -->
+      </class> <!-- lab.ChocolateBoilerSingletonTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

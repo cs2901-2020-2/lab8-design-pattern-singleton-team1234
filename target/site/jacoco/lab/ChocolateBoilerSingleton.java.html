@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ChocolateBoilerSingleton.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">lab8-design-pattern-singleton-team1234</a> &gt; <a href="index.source.html" class="el_package">lab</a> &gt; <span class="el_source">ChocolateBoilerSingleton.java</span></div><h1>ChocolateBoilerSingleton.java</h1><pre class="source lang-java linenums">package lab;
+
+public class ChocolateBoilerSingleton {
+
+<span class="fc" id="L5">    private static ChocolateBoilerSingleton instance = null;</span>
+<span class="fc" id="L6">    private static int semaphore = 0;</span>
+    private boolean empty;
+    private boolean boiled;
+
+    private ChocolateBoilerSingleton(){
+
+    }
+    public void fill(){
+<span class="pc bpc" id="L14" title="1 of 2 branches missed.">        if(isEmpty()){</span>
+<span class="nc" id="L15">            empty = false;</span>
+<span class="nc" id="L16">            boiled = false;</span>
+        }
+<span class="fc" id="L18">    }</span>
+
+    public void drain(){
+<span class="pc bpc" id="L21" title="3 of 4 branches missed.">        if(isEmpty() &amp;&amp; isBoiled()){</span>
+            //drain the boiled milk and chocolate
+<span class="nc" id="L23">            empty = true;</span>
+        }
+<span class="fc" id="L25">    }</span>
+
+    public void boil(){
+<span class="pc bpc" id="L28" title="2 of 4 branches missed.">        if(!isEmpty() &amp;&amp; isBoiled()){</span>
+            //bring the contents to a boil
+<span class="nc" id="L30">            boiled = true;</span>
+        }
+<span class="fc" id="L32">    }</span>
+
+    public boolean isEmpty(){
+<span class="fc" id="L35">        return empty;</span>
+    }
+
+    public boolean isBoiled(){
+<span class="fc" id="L39">        return boiled;</span>
+    }
+
+    private static synchronized int increaseSema () {
+<span class="fc" id="L43">        int prev = semaphore;</span>
+<span class="fc" id="L44">        semaphore++;</span>
+<span class="fc" id="L45">        return prev;</span>
+    }
+
+    public static ChocolateBoilerSingleton getInstance(){
+<span class="fc bfc" id="L49" title="All 2 branches covered.">        if (increaseSema() == 0)</span>
+<span class="fc" id="L50">            instance = new ChocolateBoilerSingleton();</span>
+<span class="fc" id="L51">        return instance;</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>
